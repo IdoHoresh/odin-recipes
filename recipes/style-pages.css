@@ -1,0 +1,8 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+ul,ol {
+    display: inline-block;
+}
