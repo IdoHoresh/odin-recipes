@@ -3,6 +3,16 @@ body {
     text-align: center;
 }
 
-ul,ol {
+p,ul,ol {
     display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+    color: blanchedalmond;
+    background-color: black;
 }
